@@ -1,0 +1,6 @@
+Especificações do projeto
+
+requisito3
+requisito2
+requisito4
+requisito1
